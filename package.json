@@ -1,0 +1,18 @@
+{
+  "name": "bitmapxmlparser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express-xml-bodyparser": "^0.3.0",
+    "node-gyp": "^6.0.1",
+    "rebuild": "^0.1.2",
+    "xml2js": "^0.4.22",
+    "xml2json": "^0.11.2"
+  }
+}
