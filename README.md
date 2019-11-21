@@ -1,4 +1,5 @@
-**If u haven`t windows-build-tools, install it, cos you might have an error **
+**If u haven`t windows-build-tools, install it, cos you might have an error**
+
 How to use:
 1) type "npm i"
 2) type "node index you`rFile.xml"
